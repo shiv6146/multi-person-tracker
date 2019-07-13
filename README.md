@@ -30,3 +30,8 @@ Steps to compile and run
 5. In a new terminal, run `rosrun follow_me moving_person_detector_node`
 6. In a new terminal, run `rosrun follow_me tracker.py`
 7. In a new terminal, run `rviz` and under Markers select `track_persons` option to see the tracking markers
+
+Sample Run
+==========
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
