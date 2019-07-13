@@ -31,7 +31,6 @@ Steps to compile and run
 6. In a new terminal, run `rosrun follow_me tracker.py`
 7. In a new terminal, run `rviz` and under Markers select `track_persons` option to see the tracking markers
 
-Sample Run
-==========
-
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+Demo
+====
+See demo [(here)(https://www.loom.com/share/b17e1bf5ea3d4df4950938964182b80e)]
