@@ -1,7 +1,7 @@
 Multi person tracker using LaserScanner
 =======================================
 
-This is an extension of the initial follow_me behaviour to track multiple moving persons and visualize them on Rviz.
+This project aims at tracking multiple moving persons to visualize them on Rviz.
 
 
 Overview
